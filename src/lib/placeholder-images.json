@@ -1,0 +1,28 @@
+{
+  "placeholderImages": [
+    {
+      "id": "proj-1",
+      "description": "A modern office building against a blue sky.",
+      "imageUrl": "https://images.unsplash.com/photo-1600531529272-023c4b821f14?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxvZmZpY2UlMjBidWlsZGluZ3xlbnwwfHx8fDE3NTg4OTQ1MzZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "office building"
+    },
+    {
+      "id": "proj-2",
+      "description": "The interior of a sleek, modern office space with minimalist furniture.",
+      "imageUrl": "https://images.unsplash.com/photo-1641060272821-df59e2c0b5ed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxtb2Rlcm4lMjBvZmZpY2V8ZW58MHx8fHwxNzU4ODM4NjY4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "modern office"
+    },
+    {
+      "id": "proj-3",
+      "description": "A diverse team of professionals collaborating around a table.",
+      "imageUrl": "https://images.unsplash.com/photo-1709715357510-b687304cee3a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHx0ZWFtJTIwbWVldGluZ3xlbnwwfHx8fDE3NTg4ODY3NTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "team meeting"
+    },
+    {
+      "id": "proj-4",
+      "description": "A whiteboard covered in complex diagrams and notes from a brainstorming session.",
+      "imageUrl": "https://images.unsplash.com/photo-1696254792135-5c0fceb27d4c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHx3aGl0ZWJvYXJkJTIwaWRlYXN8ZW58MHx8fHwxNzU4ODY4MzUyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "whiteboard ideas"
+    }
+  ]
+}
