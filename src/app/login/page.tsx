@@ -38,10 +38,15 @@ export default function LoginPage() {
       }
       console.log(infoData);
       // const projects = await getProjects(infoData)
-      const projects = await getProjects( user?.userFind?.CompanyId)
-      // console.log(projects);
-      // router.push('/projects');
+      const id :any ={CompanyId:user?.userFind?.CompanyId}
+      const projects  = await getProjects( user?.userFind?.CompanyId)
+
+      console.log(projects);
+      // router.push({pathname: '/projects',query:{arreglo:JSON.stringify(projects)}});
+      
     }
+    //dejo habilitada la ruta de ingreso al no existir un back montado
+    router.push('/projects')
   };
 
   return (

@@ -10,12 +10,16 @@ import {
 } from '@/components/ui/card';
 import { Header } from '@/components/header';
 
-export default async function ProjectsPage() {
+interface componentsProps{
+  CompanyId: string
+}
+
+export default async function ProjectsPage({CompanyId}:componentsProps) {
 
   const infoData ={
       CompanyId: 1
   }
-  const n= 1
+  const n= CompanyId
 
   const projects = await getProjects();
   // const projects = await getProjects(1);
